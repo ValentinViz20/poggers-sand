@@ -4,7 +4,7 @@ Sadly back when I created this game I didn't know about GitHub, so I uploaded ev
 
 ## Demo
 
-https://www.youtube.com/watch?v=lcWQq2Rm3ZE&ab_channel=Necromancer18V
+[![Watch the video](https://img.youtube.com/vi/lcWQq2Rm3ZE/maxresdefault.jpg)](https://www.youtube.com/watch?v=lcWQq2Rm3ZE&ab_channel=Necromancer18V)
 
 ## How to play  
 - clone the repository using `git clone [URL]`
