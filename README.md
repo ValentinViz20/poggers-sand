@@ -3,6 +3,7 @@ A falling sand type of game I made using pygame and Python
 Sadly back when I created this game I didn't know about GitHub, so I uploaded everything at once.
 
 ## Demo
+Click the picture to watch a demo of the game!
 
 [![Watch the video](https://img.youtube.com/vi/lcWQq2Rm3ZE/maxresdefault.jpg)](https://www.youtube.com/watch?v=lcWQq2Rm3ZE&ab_channel=Necromancer18V)
 
